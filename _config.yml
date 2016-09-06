@@ -1,0 +1,7 @@
+title: Stortford Strollers
+url: "https://stortfordstrollers"
+baseurl: "/"
+
+subsume: https://api.subsume.io/
+
+exclude: ['CNAME', '*.sublime-*']
