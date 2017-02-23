@@ -1,5 +1,9 @@
-# Site settings
+title: Stortford Strollers
 url: "http://localhost:4000" # the base hostname & protocol for your site
 baseurl: "/" # the subpath of your site, e.g. /blog/
+
+collections:
+  matchreports:
+    output: true
 
 subsume: http://api.subsume.dev/

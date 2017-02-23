@@ -2,6 +2,10 @@ title: Stortford Strollers
 url: "https://stortfordstrollers"
 baseurl: "/"
 
+collections:
+  matchreports:
+    output: true
+
 subsume: https://api.subsume.io/
 
 exclude: ['CNAME', '*.sublime-*']
