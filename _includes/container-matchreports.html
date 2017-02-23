@@ -1,12 +1,10 @@
 <div class="container">
 	<div class="row">
-		<div class="col-md-12">
-			<h1>Match Reports</h1>
-		</div>
-	</div>
-
-	<div class="row">
 		<div class="col-md-8">
+			<h1>Match Reports</h1>
+
+			<h2>{{ page.title | remove_first: "Match Report - " }}</h2>
+
 			{{ content }}
 		</div>
 
@@ -19,7 +17,7 @@
 				<div class="panel-body">
 					<ul>
 						{% for report in site.matchreports reversed %}
-							<li><a href="{{ report.url }}">{{ report.title }}</a></li>
+							<li><a href="{{ report.url }}">{{ report.title | remove_first: "Match Report - " }}</a></li>
 						{% endfor %}
 					</ul>
 				</div>

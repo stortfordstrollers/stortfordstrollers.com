@@ -9,5 +9,11 @@
 			</button>
 			<a class="navbar-brand" href="/">Stortford Strollers</a>
 		</div>
+
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav">
+				<li class="{% if page.url contains '/matchreports/' %}active{% endif %}"><a href="/matchreports/">Match Reports</a></li>
+			</ul>
+		</div>
 	</div>
 </nav>
