@@ -1,0 +1,29 @@
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1>Match Reports</h1>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-8">
+			{{ content }}
+		</div>
+
+		<div class="col-md-4">
+			<div class="panel panel-info">
+				<div class="panel-heading">
+					<h2 class="panel-title">Past Reports</h2>
+				</div>
+
+				<div class="panel-body">
+					<ul>
+						{% for report in site.matchreports reversed %}
+							<li><a href="{{ report.url }}">{{ report.title }}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
