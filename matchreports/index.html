@@ -1,11 +1,24 @@
+---
+title: Match Report - Sunday, 16th April 2017
+layout: default
+---
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-8">
-			<h1>Match Report</h1>
+			<h1>Match Reports</h1>
 
-			<h2>{{ page.title | remove_first: "Match Report - " }}</h2>
+			<h2>Come and read some of our match reports&hellip;</h2>
 
-			{{ content }}
+			<ul>
+				{% for post in site.posts %}
+				<li>
+					<p>{{ post.title | remove_first: "Match Report - " }}</p>
+					<p>{{ post.excerpt }}</p>
+					<p><a href="{{ post.url }}">Read some more&hellip;</a></p>
+				</li>
+				{% endfor %}
+			</ul>
 		</div>
 
 		<div class="col-md-4">

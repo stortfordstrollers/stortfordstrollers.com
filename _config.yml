@@ -2,9 +2,7 @@ title: Stortford Strollers Walking Basketball Club
 url: "https://stortfordstrollers.com"
 baseurl: "/"
 
-collections:
-  matchreports:
-    output: true
+permalink: /:categories/:year-:month-:day.html
 
 subsume: https://api.subsume.io/
 
