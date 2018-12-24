@@ -1,0 +1,35 @@
+<section class="g-py-100">
+	<div class="container g-max-width-780 text-center g-mb-60">
+		<div class="text-center u-heading-v8-1 g-mb-35">
+			<h2 class="h3 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 mb-0">Video
+				<strong class="g-bg-blue-dark-v1 g-color-primary">Gallery</strong></h2>
+		</div>
+
+		<p class="mb-0">This might be a walking sport but we're not sedentary!</p>
+	</div>
+
+	<div class="container">
+		<div class="js-carousel g-pb-85 g-mx-minus-15"
+					data-slides-show="2"
+					data-arrows-classes="u-arrow-v1 g-pos-abs g-absolute-centered--x--md g-bottom-0 g-width-45 g-height-45 g-color-white g-color-black--hover g-theme-bg-gray-light-v3 g-bg-primary--hover g-transition-0_2 g-transition--ease-in"
+					data-arrow-left-classes="fa fa-chevron-left g-left-15 g-left-50x--md g-ml-minus-40--md"
+					data-arrow-right-classes="fa fa-chevron-right g-right-15 g-left-50x--md g-ml-40--md"
+					data-responsive='[{
+						"breakpoint": 1200,
+						"settings": {
+							"slidesToShow": 2
+						}
+					}, {
+						"breakpoint": 992,
+						"settings": {
+							"slidesToShow": 1
+						}
+					}]'>
+
+		{%- for video in site.data.videoGallery -%}
+			<div class="js-slide g-mx-20 embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video.link }}?rel=0" alt="{{ video.alt }}" allowfullscreen></iframe>
+			</div>
+		{%- endfor -%}
+	</div>
+</section>

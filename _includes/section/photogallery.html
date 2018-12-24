@@ -1,0 +1,79 @@
+<section id="ourProjects" class="g-bg-gray-light-v5 g-py-100">
+	<div class="container g-max-width-780 text-center g-mb-60">
+		<div class="text-center u-heading-v8-1 g-mb-35">
+			<h2 class="h3 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 mb-0">Photo
+				<strong class="g-bg-blue-dark-v1 g-color-primary">gallery</strong></h2>
+		</div>
+
+		<p class="mb-0">Come and join the action!</p>
+	</div>
+
+	<div class="container">
+		<!-- Carousel -->
+		<div class="js-carousel g-pb-60 g-mx-minus-15"
+					data-slides-show="3"
+					data-slides-scroll="3"
+					data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-bottom-0 text-center"
+					data-responsive='[{
+						"breakpoint": 1200,
+						"settings": {
+							"slidesToShow": 2,
+							"slidesToScroll": 2
+						}
+					}, {
+						"breakpoint": 768,
+						"settings": {
+							"slidesToShow": 1,
+							"slidesToScroll": 1
+						}
+					}]'>
+			<!-- <div class="js-slide g-px-15">
+				<article class="g-bg-white g-color-gray-light-v1">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vXNlv7VEIis?rel=0" allowfullscreen></iframe>
+				</article>
+			</div>
+
+			<div class="js-slide g-px-15">
+					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vXNlv7VEIis?rel=0" allowfullscreen></iframe>
+			</div>
+
+			<div class="js-slide g-px-15">
+				<article class="g-bg-white g-color-gray-light-v1">
+					<img class="w-100" src="img/gallery/2017-02-05/IMG_3021.jpg" alt="Image Description">
+				</article>
+			</div>
+
+			<div class="js-slide g-px-15">
+				<article class="g-bg-white g-color-gray-light-v1">
+					<img class="w-100" src="img/gallery/2017-02-05/IMG_3025.jpg" alt="Image Description">
+				</article>
+			</div>
+
+			<div class="js-slide g-px-15">
+				<article class="g-bg-white g-color-gray-light-v1">
+					<img class="w-100" src="img/gallery/2017-02-05/IMG_3026.jpg" alt="Image Description">
+				</article>
+			</div>
+
+			<div class="js-slide g-px-15">
+				<article class="g-bg-white g-color-gray-light-v1">
+					<img class="w-100" src="img/gallery/2017-02-05/IMG_3027.jpg" alt="Image Description">
+				</article>
+			</div>
+
+			<div class="js-slide g-px-15">
+				<article class="g-bg-white g-color-gray-light-v1">
+					<img class="w-100" src="img/gallery/2017-02-05/IMG_3028.jpg" alt="Image Description">
+				</article>
+			</div> -->
+
+			{%- for photo in site.data.photoGallery -%}
+				<div class="js-slide g-px-15">
+					<article class="g-bg-white g-color-gray-light-v1">
+						<img class="w-100" src="img/gallery/{{ photo.link }}" alt="{{ photo.alt }}">
+					</article>
+				</div>
+			{%- endfor -%}
+		</div>
+	</div>
+</section>

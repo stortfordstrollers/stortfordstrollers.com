@@ -1,0 +1,13 @@
+.g-bg-blue-dark-v1 {
+	background-color: rgb(23, 23, 126);
+}
+.g-bg-blue2 {
+	background-color: rgb(23, 23, 126);
+}
+.g-color-blue {
+	color: rgb(23, 23, 126) !important;
+}
+
+.dark-theme li.active .nav-link {
+	color: rgb(23, 23, 126);
+}

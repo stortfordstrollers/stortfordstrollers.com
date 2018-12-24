@@ -4,4 +4,6 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 
 permalink: /:categories/:year-:month-:day.html
 
+incremental: true
+
 subsume: http://api.subsume.dev/
