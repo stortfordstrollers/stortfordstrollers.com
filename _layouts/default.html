@@ -1,19 +1,423 @@
-<!doctype html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
-	{% include head.html %}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Title -->
+		<title>Stortford Strollers Walking Basketball Club</title>
+
+		<!-- Required Meta Tags Always Come First -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="../../favicon.ico">
+
+		<!-- Google Fonts -->
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C500%2C600%2C700%2C800%7CPlayfair+Display%7CRoboto%7CRaleway%7CSpectral%7CRubik">
+
+		<!-- CSS Global Compulsory -->
+		<link rel="stylesheet" href="assets/vendor/bootstrap/bootstrap.min.css">
+
+		<!-- CSS Implementing Plugins -->
+		<link rel="stylesheet" href="assets/vendor/icon-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/vendor/icon-line-pro/style.css">
+		<link rel="stylesheet" href="assets/vendor/icon-line/css/simple-line-icons.css">
+		<link rel="stylesheet" href="assets/vendor/icon-hs/style.css">
+		<link rel="stylesheet" href="assets/vendor/hamburgers/hamburgers.min.css">
+		<link rel="stylesheet" href="assets/vendor/animate.css">
+		<link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+
+		<!-- CSS Template -->
+		<link rel="stylesheet" href="assets/css/styles.op-charity.css">
+
+		<!-- CSS Customization -->
+		<link rel="stylesheet" href="assets/css/custom.css">
+	</head>
 
 	<body>
-		<!--[if lt IE 8]>
-				<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-		<![endif]-->
+		<main>
+			<!-- Header v1 -->
+			<header id="js-header" class="u-header u-header--sticky-top u-header--change-appearance"
+							data-header-fix-moment="100">
+				<div class="light-theme u-header__section g-transition-0_3 g-py-15"
+						 data-header-fix-moment-exclude="light-theme g-py-15"
+						 data-header-fix-moment-classes="dark-theme u-shadow-v27 g-bg-white g-py-12">
+					<nav class="navbar navbar-expand-lg g-py-0">
+						<div class="container g-pos-rel">
+							<!-- Logo -->
+							<a href="/" class="js-go-to navbar-brand u-header__logo"
+								 data-type="static">
+								<img class="u-header__logo-img u-header__logo-img--main d-block g-width-250" src="assets/img/logo-light.png" alt="Stortford Strollers logo"
+										 data-header-fix-moment-exclude="d-block"
+										 data-header-fix-moment-classes="d-none">
 
-		{% include nav.html %}
-		{% include jumbo.html %}
-		{% include container.html %}
+								<img class="u-header__logo-img u-header__logo-img--main d-none g-width-250" src="assets/img/logo-dark.png" alt="Stortford Strollers logo"
+										 data-header-fix-moment-exclude="d-none"
+										 data-header-fix-moment-classes="d-block">
+							</a>
+							<!-- End Logo -->
 
-		{% include foot.html %}
+							<!-- Navigation -->
+							<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar">
+								<ul id="js-scroll-nav" class="navbar-nav text-uppercase g-font-weight-700 g-font-size-12 g-pt-20 g-pt-7--lg ml-auto">
+									<li class="nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
+										<a href="#home" class="nav-link p-0">Home <span class="sr-only">(current)</span></a>
+									</li>
+									<li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+										<a href="#fun" class="nav-link p-0">Join the fun</a>
+									</li>
+									<li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+										<a href="#findUs" class="nav-link p-0">Find us</a>
+									</li>
+									<li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+										<a href="#links" class="nav-link p-0">Links</a>
+									</li>
+									<li class="nav-item g-ml-10--lg">
+										<a href="#contact" class="nav-link p-0">Contact</a>
+									</li>
+								</ul>
+							</div>
+							<!-- End Navigation -->
+
+							<!-- Responsive Toggle Button -->
+							<button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-15 g-right-0" type="button"
+											aria-label="Toggle navigation"
+											aria-expanded="false"
+											aria-controls="navBar"
+											data-toggle="collapse"
+											data-target="#navBar">
+								<span class="hamburger hamburger--slider">
+									<span class="hamburger-box">
+										<span class="hamburger-inner"></span>
+									</span>
+								</span>
+							</button>
+							<!-- End Responsive Toggle Button -->
+						</div>
+					</nav>
+				</div>
+			</header>
+			<!-- End Header v1 -->
+
+			{{ content }}
+
+			<!-- Footer -->
+			<footer class="g-color-gray-dark-v5 g-bg-blue-dark-v1">
+				<div id="contact" class="container">
+					<div class="w-100 g-height-4"></div>
+
+					<div class="g-color-gray-dark-v1 g-bg-primary g-pa-40 g-mt-minus-60 g-mb-70">
+						<h2 class="text-uppercase g-font-weight-700 g-font-size-22 g-color-gray-dark-v1 g-mb-10">Get in contact</h2>
+						<p class="g-mb-20">We play every Sunday from 9am-10am at Birchwood High School, Bishop's Stortford. Your first session is FREE.</p>
+
+						<form name="contact-us" method="POST" data-netlify-recaptcha="true"  data-netlify="true">
+							<div class="row">
+								<div class="col-md-4 col-lg-5">
+									<div class="form-group g-mb-20 g-mb-0--lg">
+										<label class="text-uppercase g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-mb-15" for="inputGroup1_1">Name</label>
+										<input id="inputGroup1_1" class="form-control g-font-size-default g-brd-white g-rounded-1 g-pa-10-16" type="text" placeholder="Your name">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-lg-5">
+									<div class="form-group g-mb-50 g-mb-0--md">
+										<label class="text-uppercase g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-mb-15" for="inputGroup1_2">Email</label>
+										<input id="inputGroup1_2" class="form-control g-font-size-default g-brd-white g-rounded-1 g-pa-10-16" type="email" placeholder="Your email">
+									</div>
+								</div>
+
+								<div class="col-md-3 col-lg-2 text-left">
+									<label class="g-hidden-sm-down text-uppercase d-block g-font-weight-700 g-font-size-12 g-color-gray-dark-v1 g-mb-15">&nbsp;</label>
+
+									<button class="btn u-btn-black btn-lg text-uppercase g-line-height-1 g-font-weight-700 g-font-size-11 rounded-0 g-px-35 g-py-15 mb-0" type="submit" role="button">Send</button>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col">
+									<div data-netlify-recaptcha="true"></div>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+
+				<div class="g-pb-30">
+					<div id="links" class="container">
+						<div class="row">
+							<div class="col">
+								<h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Useful Links</h2>
+
+								<div class="row">
+									<div class="col-sm-3">
+										<ul class="list-unstyled g-mb-30 g-mb-0--md">
+											<li class="g-pos-rel g-pl-10 g-mb-8">
+												<i class="fa fa-circle g-absolute-centered--y g-left-0 g-font-size-5 g-color-primary"></i>
+												<a class="g-color-gray-dark-v5 g-color-primary--hover" href="http://www.walkingbasketballuk.com/" target="_blank">Walking Basketball UK</a>
+											</li>
+										</ul>
+									</div>
+
+									<div class="col-sm-3">
+										<ul class="list-unstyled g-mb-30 g-mb-0--md">
+											<li class="g-pos-rel g-pl-10 g-mb-8">
+												<i class="fa fa-circle g-absolute-centered--y g-left-0 g-font-size-5 g-color-primary"></i>
+												<a class="g-color-gray-dark-v5 g-color-primary--hover" href="https://www.basketballengland.co.uk/news/basketball-england-and-walking-basketball-uk-step-up-partnership/" target="_blank">Basketball England</a>
+											</li>
+										</ul>
+									</div>
+
+									<div class="col-sm-3">
+										<ul class="list-unstyled g-mb-30 g-mb-0--md">
+											<li class="g-pos-rel g-pl-10 g-mb-8">
+												<i class="fa fa-circle g-absolute-centered--y g-left-0 g-font-size-5 g-color-primary"></i>
+												<a class="g-color-gray-dark-v5 g-color-primary--hover" href="https://www.birchwoodonline.co.uk/" target="_blank">Birchwood High School</a>
+											</li>
+										</ul>
+									</div>
+
+									<div class="col-sm-3">
+										<ul class="list-unstyled g-mb-30 g-mb-0--md">
+											<li class="g-pos-rel g-pl-10 g-mb-8">
+												<i class="fa fa-circle g-absolute-centered--y g-left-0 g-font-size-5 g-color-primary"></i>
+												<a class="g-color-gray-dark-v5 g-color-primary--hover" href="https://www.eastherts.gov.uk/foreveractive" target="_blank">Forever Active East Herts</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div class="g-brd-top g-brd-gray-dark-v2 g-py-40">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
+								<p class="w-100 mb-0 g-color-white">&copy; {{ 'now' | date: '%Y' }} All right reserved. Stortford Strollers Walking Basketball Club</p>
+							</div>
+
+							<div class="col-md-6">
+								<ul class="list-inline float-md-right mb-0">
+									<li class="list-inline-item g-mr-10">
+										<a class="u-icon-v3 g-width-35 g-height-35 g-font-size-16 g-color-white g-color-gray-dark-v2--hover g-bg-gray-dark-v2 g-bg-primary--hover g-transition-0_2 g-transition--ease-in" href="https://twitter.com/StortStrollers"><i class="fa fa-twitter"></i></a>
+									</li>
+
+									<li class="list-inline-item g-mr-10">
+										<a class="u-icon-v3 g-width-35 g-height-35 g-font-size-16 g-color-white g-color-gray-dark-v2--hover g-bg-gray-dark-v2 g-bg-primary--hover g-transition-0_2 g-transition--ease-in" href="https://www.facebook.com/BishopsStortfordWalkingBasketball/"><i class="fa fa-facebook"></i></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<!-- End Footer -->
+
+			<a class="js-go-to u-go-to-v1 g-color-gray-dark-v1" href="#!"
+				 data-type="fixed"
+				 data-position='{
+					 "bottom": 15,
+					 "right": 15
+				 }'
+				 data-offset-top="400"
+				 data-compensation="#js-header"
+				 data-show-effect="zoomIn">
+				<i class="hs-icon hs-icon-arrow-top"></i>
+			</a>
+		</main>
+
+		<!-- JS Global Compulsory -->
+		<script src="assets/vendor/jquery/jquery.min.js"></script>
+		<script src="assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+		<script src="assets/vendor/popper.min.js"></script>
+		<script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
+
+		<!-- JS Implementing Plugins -->
+		<script src="assets/vendor/appear.js"></script>
+		<script src="assets/vendor/circles/circles.min.js"></script>
+		<script src="assets/vendor/slick-carousel/slick/slick.js"></script>
+		<script src="assets/vendor/jquery.easypin.custom/dist/jquery.easypin.js"></script>
+
+		<!-- JS Unify -->
+		<script src="assets/js/hs.core.js"></script>
+		<script src="assets/js/components/hs.header.js"></script>
+		<script src="assets/js/helpers/hs.hamburgers.js"></script>
+		<script src="assets/js/components/hs.scroll-nav.js"></script>
+		<script src="assets/js/components/hs.progress-bar.js"></script>
+		<script src="assets/js/components/hs.chart-pie.js"></script>
+		<script src="assets/js/components/hs.carousel.js"></script>
+		<script src="assets/js/components/hs.map.pin.js"></script>
+		<script src="assets/js/components/hs.go-to.js"></script>
+
+		<!-- JS Customization -->
+		<script src="assets/js/custom.js"></script>
+
+		<!-- JS Plugins Init. -->
+		<script>
+			$(document).on('ready', function () {
+				// initialization of carousel
+				$.HSCore.components.HSCarousel.init('.js-carousel');
+
+				// initialization of header
+				$.HSCore.components.HSHeader.init($('#js-header'));
+				$.HSCore.helpers.HSHamburgers.init('.hamburger');
+
+				// initialization of go to section
+				$.HSCore.components.HSGoTo.init('.js-go-to');
+
+				// initialization of progressbar
+				var horizontalProgressBars = $.HSCore.components.HSProgressBar.init('.js-hr-progress-bar', {
+					direction: 'horizontal',
+					indicatorSelector: '.js-hr-progress-bar-indicator'
+				});
+
+				// initialization of chart pie
+				var items = $.HSCore.components.HSChartPie.init('.js-pie');
+
+				// initialization of pin map
+				var markers1 = {
+					0: {
+						"image_url": "assets/img-temp/800x450/img1.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget1",
+						"coords": {
+							"lat": "149",
+							"long": "168"
+						}
+					},
+					1: {
+						"image_url": "assets/img-temp/800x450/img2.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget2",
+						"coords": {
+							"lat": "179",
+							"long": "205"
+						}
+					},
+					2: {
+						"image_url": "assets/img-temp/800x450/img3.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget3",
+						"coords": {
+							"lat": "241",
+							"long": "373"
+						}
+					},
+					3: {
+						"image_url": "assets/img-temp/800x450/img4.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget4",
+						"coords": {
+							"lat": "543",
+							"long": "244"
+						}
+					},
+					4: {
+						"image_url": "assets/img-temp/800x450/img5.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget5",
+						"coords": {
+							"lat": "601",
+							"long": "268"
+						}
+					},
+					5: {
+						"image_url": "assets/img-temp/800x450/img6.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget6",
+						"coords": {
+							"lat": "636",
+							"long": "260"
+						}
+					},
+					6: {
+						"image_url": "assets/img-temp/800x450/img7.jpg",
+						"date": "117:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget7",
+						"coords": {
+							"lat": "614",
+							"long": "118"
+						}
+					},
+					7: {
+						"image_url": "assets/img-temp/800x450/img1.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget8",
+						"coords": {
+							"lat": "701",
+							"long": "70.125"
+						}
+					},
+					8: {
+						"image_url": "assets/img-temp/800x450/img2.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget9",
+						"coords": {
+							"lat": "950",
+							"long": "177"
+						}
+					},
+					9: {
+						"image_url": "assets/img-temp/800x450/img3.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget10",
+						"coords": {
+							"lat": "1079",
+							"long": "463"
+						}
+					},
+					10: {
+						"image_url": "assets/img-temp/800x450/img4.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget 11",
+						"coords": {
+							"lat": "717",
+							"long": "455"
+						}
+					},
+					11: {
+						"image_url": "assets/img-temp/800x450/img5.jpg",
+						"date": "17:48, April 27, 2015",
+						"location": "South Africa",
+						"title": "Proin egestas purus eget 12",
+						"coords": {
+							"lat": "625",
+							"long": "510"
+						}
+					},
+					canvas: {
+						src: 'assets/img/maps/map.svg',
+						width: 1170,
+						height: 594
+					}
+				};
+
+				$.HSCore.components.HSPinMap.init('.js-pin-map', {
+					data: {
+						"map-pin": markers1
+					}
+				});
+			});
+
+			$(window).on('load', function() {
+				// initialization of HSScrollNav
+				$.HSCore.components.HSScrollNav.init($('#js-scroll-nav'), {
+					duration: 700
+				});
+			});
+		</script>
 	</body>
 </html>
