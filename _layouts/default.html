@@ -114,19 +114,31 @@
 							<div class="row">
 								<div class="col-md-4 col-lg-5">
 									<div class="form-group g-mb-20 g-mb-0--lg">
-										<label class="text-uppercase g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-mb-15" for="inputGroup1_1">Name</label>
-										<input id="inputGroup1_1" class="form-control g-font-size-default g-brd-white g-rounded-1 g-pa-10-16" type="text" placeholder="Your name">
+										<label class="text-uppercase g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-mb-15" for="name">Name *</label>
+
+										<input id="name" name="name" class="form-control g-font-size-default g-brd-white g-rounded-1 g-pa-10-16" type="text" placeholder="Your name" required>
 									</div>
 								</div>
 
 								<div class="col-md-4 col-lg-5">
 									<div class="form-group g-mb-50 g-mb-0--md">
-										<label class="text-uppercase g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-mb-15" for="inputGroup1_2">Email</label>
-										<input id="inputGroup1_2" class="form-control g-font-size-default g-brd-white g-rounded-1 g-pa-10-16" type="email" placeholder="Your email">
+										<label class="text-uppercase g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-mb-15" for="emailAddress">Email *</label>
+
+										<input id="emailAddress" name="emailAddress" class="form-control g-font-size-default g-brd-white g-rounded-1 g-pa-10-16" type="email" placeholder="Your email" required>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-8 col-lg-10">
+									<div class="form-group g-my-20">
+										<label class="text-uppercase g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-mb-15" for="message">Message *</label>
+
+										<textarea id="message" name="message" class="form-control g-font-size-default g-brd-white g-rounded-1 g-pa-10-16" rows="3" placeholder="What would you like to ask us?" required></textarea>
 									</div>
 								</div>
 
-								<div class="col-md-3 col-lg-2 text-left">
+								<div class="col-md-3 col-lg-2 text-left g-my-20">
 									<label class="g-hidden-sm-down text-uppercase d-block g-font-weight-700 g-font-size-12 g-color-gray-dark-v1 g-mb-15">&nbsp;</label>
 
 									<button class="btn u-btn-black btn-lg text-uppercase g-line-height-1 g-font-weight-700 g-font-size-11 rounded-0 g-px-35 g-py-15 mb-0" type="submit" role="button">Send</button>
