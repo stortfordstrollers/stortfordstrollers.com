@@ -11,3 +11,7 @@
 .dark-theme li.active .nav-link {
 	color: rgb(23, 23, 126);
 }
+
+.g-bg-darkblue-opacity-0_7 {
+	background-color: rgba(0, 0, 153, 0.7) !important;
+}
