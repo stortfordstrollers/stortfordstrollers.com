@@ -3,7 +3,8 @@
 		<div class="col-md-8">
 			<h1>Match Report</h1>
 
-			<h2>{{ page.title | remove_first: "Match Report - " }}</h2>
+			{%- comment -%}<h2>{{ page.title | remove_first: "Match Report - " }}</h2>{%- endcomment -%}
+			<h2>{{ page.title }}</h2>
 
 			{{ content }}
 		</div>
@@ -17,7 +18,8 @@
 				<div class="panel-body">
 					<ul>
 						{% for post in site.posts %}
-						<li><a href="{{ post.url }}">{{ post.title  | remove_first: "Match Report - " }}</a></li>
+							{%- comment -%}<li><a href="{{ post.url }}">{{ post.title | remove_first: "Match Report - " }}</a></li>{%- endcomment -%}
+							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endfor %}
 					</ul>
 				</div>

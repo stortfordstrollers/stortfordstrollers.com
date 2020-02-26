@@ -1,6 +1,6 @@
 ---
 title: Match Report - Sunday, 16th April 2017
-layout: default
+layout: default.html
 ---
 
 <div class="container">
@@ -11,12 +11,13 @@ layout: default
 			<h2>Come and read some of our match reports&hellip;</h2>
 
 			<ul>
-				{% for post in site.posts %}
-				<li>
-					<p>{{ post.title | remove_first: "Match Report - " }}</p>
-					<p>{{ post.excerpt }}</p>
-					<p><a href="{{ post.url }}">Read some more&hellip;</a></p>
-				</li>
+				{% for post in collections.matchreports %}
+					<li>
+						{%- comment -%}<p>{{ post.title | remove_first: "Match Report - " }}</p>{%- endcomment -%}
+						<p>{{ post.title  }}</p>
+						<p>{{ post.excerpt }}</p>
+						<p><a href="{{ post.url }}">Read some more&hellip;</a></p>
+					</li>
 				{% endfor %}
 			</ul>
 		</div>
@@ -29,8 +30,9 @@ layout: default
 
 				<div class="panel-body">
 					<ul>
-						{% for post in site.posts %}
-						<li><a href="{{ post.url }}">{{ post.title  | remove_first: "Match Report - " }}</a></li>
+						{% for post in collections.matchreports %}
+							{%- comment -%}<li><a href="{{ post.url }}">{{ post.title  | remove_first: "Match Report - " }}</a></li>{%- endcomment -%}
+							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endfor %}
 					</ul>
 				</div>
