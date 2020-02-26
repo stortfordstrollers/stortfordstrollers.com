@@ -1,0 +1,23 @@
+{
+  "name": "stortfordstrollers.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://richardherbert@github.com/stortfordstrollers/stortfordstrollers.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stortfordstrollers/stortfordstrollers.com/issues"
+  },
+  "homepage": "https://github.com/stortfordstrollers/stortfordstrollers.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
