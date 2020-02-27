@@ -20,10 +20,4 @@ module.exports = function( eleventyConfig ) {
 		ui: false,
 		ghostMode: false
 	} );
-
-	return {
-		dir: {
-			layouts: '_layouts'
-		}
-	};
 };
