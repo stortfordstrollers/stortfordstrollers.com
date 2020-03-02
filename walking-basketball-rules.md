@@ -1,6 +1,6 @@
 ---
 layout: layouts/rules.html
-lastModified: 2020-02-27
+lastModified: 2020-03-01
 ---
 
 # Rules for Walking Basketball
