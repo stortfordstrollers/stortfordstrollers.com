@@ -5,7 +5,7 @@ lastModified: 2020-03-01
 
 # Rules for Walking Basketball
 
-Walking Basketball follows the rules [published by FIBA](https://www.fiba.basketball/basketball-rules) with the following variations and additions:
+Walking Basketball follows the [rules published by FIBA](https://www.fiba.basketball/basketball-rules) with the following variations and additions:
 
 ## Variations
 
