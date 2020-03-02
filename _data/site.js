@@ -1,3 +1,5 @@
+let url;
+
 switch ( process.env.ELEVENTY_ENV ) {
 	case 'production':
 		url = 'https://www.stortfordstrollers.com/';
