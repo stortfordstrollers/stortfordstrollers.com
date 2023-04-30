@@ -50,4 +50,30 @@
 			}
 		]
 	}
+	},
+	{
+		"date": "2023-04-20",
+		"availability": [
+			{
+				"response": "Yes",
+				"player": [
+					"Mark"
+				]
+			},
+			{
+				"response": "No",
+				"player": [
+					"Lester",
+					"Keith H"
+				]
+			},
+			{
+				"response": "Maybe",
+				"player": [
+					"Richard",
+					"Bob"
+				]
+			}
+		]
+	}
 ]
