@@ -1,0 +1,53 @@
+[
+	{
+		"date": "2023-04-30",
+		"availability": [
+			{
+				"response": "Yes",
+				"player": [
+					"Richard",
+					"Bob",
+					"George l/s"
+				]
+			},
+			{
+				"response": "No",
+				"player": [
+					"Lester",
+					"Keith H"
+				]
+			},
+			{
+				"response": "Maybe",
+				"player": [
+					"Mark"
+				]
+			}
+		]
+	},
+	{
+		"date": "2023-04-23",
+		"availability": [
+			{
+				"response": "Yes",
+				"player": [
+					"Mark"
+				]
+			},
+			{
+				"response": "No",
+				"player": [
+					"Lester",
+					"Keith H"
+				]
+			},
+			{
+				"response": "Maybe",
+				"player": [
+					"Richard",
+					"Bob"
+				]
+			}
+		]
+	}
+]

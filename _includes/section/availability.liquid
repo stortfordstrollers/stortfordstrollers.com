@@ -1,0 +1,13 @@
+{%- for sunday in availability -%}
+	<h1>Availability: {{ sunday.date | dateFormat: 'do LLLL, yyyy' }}</h1>
+
+	{%- for response in sunday.availability -%}
+		<h2>{{ response.response }} ({{ response.player | size }})</h2>
+
+		<ul>
+			{%- for player in response.player -%}
+				<li>{{ player }}</li>
+			{%- endfor -%}
+		</ul>
+	{%- endfor -%}
+{%- endfor -%}

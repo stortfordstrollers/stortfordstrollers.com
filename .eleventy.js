@@ -1,8 +1,9 @@
 // add yaml support with npm install js-yaml --save-dev
 const yaml = require( 'js-yaml' );
+const date_fns = require( 'date-fns' );
 
 module.exports = function( eleventyConfig ) {
-	eleventyConfig.setTemplateFormats( 'html,md' );
+	eleventyConfig.setTemplateFormats( 'html,md,liquid' );
 	eleventyConfig.setQuietMode( true );
 
 	eleventyConfig.addPassthroughCopy( 'assets' );
@@ -18,6 +19,12 @@ module.exports = function( eleventyConfig ) {
 
 	eleventyConfig.addFilter( 'dump', function( anything ) {
 		console.log( 'dump:', anything );
+	} );
+
+	eleventyConfig.addFilter( 'dateFormat', function( value, formatDate ) {
+		let dateValue = new Date( value );
+
+		return date_fns.format( dateValue, formatDate );
 	} );
 
 	eleventyConfig.addShortcode( 'year', () => `${ new Date().getFullYear() }`);
