@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rm -rf ./_site && npm run build:eleventy",
+    "build:eleventy": "npx @11ty/eleventy --input ./",
+    "dev": "rm -rf ./_site && npm run dev:eleventy",
+    "dev:eleventy": "npx @11ty/eleventy --input ./ --serve"
   },
   "repository": {
     "type": "git",
@@ -17,7 +20,7 @@
     "url": "https://github.com/stortfordstrollers/stortfordstrollers.com/issues"
   },
   "homepage": "https://github.com/stortfordstrollers/stortfordstrollers.com#readme",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
   }
 }
