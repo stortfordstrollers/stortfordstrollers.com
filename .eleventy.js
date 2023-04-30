@@ -20,6 +20,8 @@ module.exports = function( eleventyConfig ) {
 		console.log( 'dump:', anything );
 	} );
 
+	eleventyConfig.addShortcode( 'year', () => `${ new Date().getFullYear() }`);
+
 	eleventyConfig.addDataExtension( 'yml', contents => yaml.safeLoad( contents ) );
 
 	eleventyConfig.setBrowserSyncConfig( {
