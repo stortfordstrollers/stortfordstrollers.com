@@ -12,6 +12,7 @@ module.exports = function( eleventyConfig ) {
 	eleventyConfig.addPassthroughCopy( 'fonts' );
 	eleventyConfig.addPassthroughCopy( 'img' );
 	eleventyConfig.addPassthroughCopy( 'js' );
+	eleventyConfig.addPassthroughCopy( 'masters' );
 
 	eleventyConfig.addPassthroughCopy( 'robots.txt' );
 	eleventyConfig.addPassthroughCopy( '404.html' );
