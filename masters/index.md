@@ -52,7 +52,7 @@ date: git Last Modified
   * [The Glynhill Hotel & Spa](https://www.glynhill.com), 169 Paisley Road, Glasgow, PA4 8XB<br>
   T: 0141 886 5555
 
-# GB Masters 2025
+# GB Masters 2025 {#gb-masters}
 
 * Date: 7th & 8th June 2025 (no games on the Friday, 6th)
 * Venues:
@@ -79,6 +79,7 @@ date: git Last Modified
 
 </figure>
 
+## Costs {#gb-masters-costs}
 
 * Team fee: £330 to be paid before the end of April
 * Player fee: £15 to be paid before the end of May via the GB Masters website
