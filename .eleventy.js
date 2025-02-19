@@ -2,6 +2,9 @@
 const yaml = require( 'js-yaml' );
 const date_fns = require( 'date-fns' );
 
+const markdownItAttrs = require( 'markdown-it-attrs' );
+const markdownItAnchor = require( 'markdown-it-anchor' );
+
 module.exports = function( eleventyConfig ) {
 	eleventyConfig.setTemplateFormats( 'html,md,liquid' );
 	eleventyConfig.setQuietMode( true );
@@ -17,6 +20,9 @@ module.exports = function( eleventyConfig ) {
 	eleventyConfig.addPassthroughCopy( 'robots.txt' );
 	eleventyConfig.addPassthroughCopy( '404.html' );
 	eleventyConfig.addPassthroughCopy( 'google0807158b843a6325.html' );
+
+	eleventyConfig.amendLibrary( 'md', ( mdLib ) => mdLib.use( markdownItAttrs ) );
+	eleventyConfig.amendLibrary( 'md', ( mdLib ) => mdLib.use( markdownItAnchor ) );
 
 	eleventyConfig.addFilter( 'dump', function( anything ) {
 		console.log( 'dump:', anything );
