@@ -20,6 +20,8 @@ date: git Last Modified
 
 ###  Squad
 
+<figure>
+
 | No | Name | Age | Shirt | Size | Team<br>Fee | Friday<br>Social | Saturday<br>Social
 | :-: | - | :-: | - | - | - | - | -
 | 6 | Richard Herbert | 68 | Owned | L | Paid |  | Paid x 2
@@ -30,6 +32,8 @@ date: git Last Modified
 | 14 | Mark Strange | 73 | Borrowed | XL | Paid | | Paid
 | 32 | David Ince | 68 | Owned | L | Paid | | Paid x 2
 | 44 | Graham Murray | 68 | Borrowed | XL | Paid | | Paid
+
+</figure>
 
 ## Costs
 
@@ -59,6 +63,8 @@ date: git Last Modified
 
 ###  Squad
 
+<figure>
+
 | No | Name | Age | Shirt | Size | Team<br>Fee
 | :-: | - | :-: | - | - | -
 | 6 | Richard Herbert | 68 | Owned | L
@@ -71,7 +77,8 @@ date: git Last Modified
 | 33 | Mark Feldman (Feldy) | 62 | Owned | XXL
 | TBC | David Wyllie | 64 |  |
 
-## Costs
+</figure>
+
 
 * Team fee: £330 to be paid before the end of April
 * Player fee: £15 to be paid before the end of May via the GB Masters website
