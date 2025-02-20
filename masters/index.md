@@ -58,31 +58,35 @@ date: git Last Modified
 * Venues:
   * [Sport Wales Centre, Sophia Close, Pontcanna, Cardiff, CF11 9SW](https://maps.app.goo.gl/ja3EGsePM4VYdg9e7)
   * [Cardiff Met Archers, Cyncoed, Cardiff CF23 6XD](https://maps.app.goo.gl/dP53Q1e6tPU2iMkz9)
-* Matches: TBC
 * Website: [GB Masters](https://gbmasters.org)
+  * Matches: TBC
+  * [Tournament Rules](/masters/GB%20Masters%20Rules%202023.pdf)
 
 ###  Squad
 
 <figure>
 
-| No | Name | Age | Shirt | Size | Team<br>Fee
-| :-: | - | :-: | - | - | -
-| 5 | Serge Cruz Duran | 77 | Borrowed | M | Paid
-| 6 | Richard Herbert | 68 | Owned | L | Paid
-| 7 | Steve Shaw | 71 | Borrowed | L | Paid
-| 8 | David Wyllie | 64 | Borrowed | L | Paid
-|  | Nick Morrice (not sure) |  |
-| 14 | Mark Strange | 73 | Borrowed | L | Paid
-| 25 | Keith Bragg | 72 | Owned | L | Paid
-| 33 | Mark Feldman (Feldy) | 62 | Owned | XXL | Paid
-| 44 | Ken Corbin | 61 | Borrowed | XL | Paid
+| No | Name | Age | Shirt | Size | Team<br>Fee | GB Masters<br>Registered
+| :-: | - | :-: | - | - | - | :-:
+| 5 | Serge Cruz Duran | 77 | Borrowed | M | Paid |
+| 6 | Richard Herbert | 68 | Owned | L | Paid | &#10004;
+| 7 | Steve Shaw | 71 | Borrowed | L | Paid |
+| 8 | David Wyllie | 64 | Borrowed | L | Paid |
+|  | Nick Morrice (maybe) |  | |
+| 14 | Mark Strange | 73 | Borrowed | L | Paid |
+| 25 | Keith Bragg | 72 | Owned | L | Paid |
+| 33 | Mark Feldman (Feldy) | 62 | Owned | XXL | Paid |
+| 44 | Ken Corbin | 61 | Borrowed | XL | Paid | 
 
 </figure>
 
 ## Costs {#gb-masters-costs}
 
-* Team fee: £330 to be paid before the end of April
-* Player fee: £15 to be paid before the end of May via the GB Masters website
+* Team fee: £330. All paid £33 but a supplement might be needed if we don't add any more players to the squad.
+* Player fee: £15 to be paid via the GB Masters website. Once paid please let me know so I can add you to our team.
+  * [Register with GB Masters for the first time](https://gbmasters.org/register)
+  * [Renew your GB Masters registration](https://gbmasters.org/login)
+* T-shirt: Once you are registered you can [visit the GB Masters shop](https://gbmasters.org/shop) and order your t-shirt directly. Orders must be placed before 7th April. On the day I'll most likely be asked to collect all those ordered by our team and distribute them.
 * Saturday Social: TBC
 * Accommodation Options:
   * Tournament hotel - [Mercure Cardiff North](https://all.accor.com/hotel/B539/index.en.shtml)
