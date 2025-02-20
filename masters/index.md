@@ -67,7 +67,7 @@ date: git Last Modified
 
 | No | Name | Age | Shirt | Size | Team<br>Fee
 | :-: | - | :-: | - | - | -
-| 5 | Serge Cruz Duran | 77 | Borrowed | M
+| 5 | Serge Cruz Duran | 77 | Borrowed | M | Paid
 | 6 | Richard Herbert | 68 | Owned | L | Paid
 | 7 | Steve Shaw | 71 | Borrowed | L | Paid
 | 8 | David Wyllie | 64 | Borrowed | L | Paid
@@ -75,7 +75,7 @@ date: git Last Modified
 | 14 | Mark Strange | 73 | Borrowed | L | Paid
 | 25 | Keith Bragg | 72 | Owned | L | Paid
 | 33 | Mark Feldman (Feldy) | 62 | Owned | XXL | Paid
-| 44 | Ken Corbin | 61 | Borrowed | XL
+| 44 | Ken Corbin | 61 | Borrowed | XL | Paid
 
 </figure>
 
