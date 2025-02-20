@@ -75,8 +75,8 @@ date: git Last Modified
 |  | Nick Morrice (maybe) |  | |
 | 14 | Mark Strange | 73 | Borrowed | L | Paid |
 | 25 | Keith Bragg | 72 | Owned | L | Paid |
-| 33 | Mark Feldman (Feldy) | 62 | Owned | XXL | Paid |
-| 44 | Ken Corbin | 61 | Borrowed | XL | Paid | 
+| 33 | Mark Feldman (Feldy) | 62 | Owned | XXL | Paid | &#10004;
+| 44 | Ken Corbin | 61 | Borrowed | XL | Paid |
 
 </figure>
 
