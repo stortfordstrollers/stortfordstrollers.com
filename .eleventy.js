@@ -34,6 +34,13 @@ module.exports = function( eleventyConfig ) {
 		return date_fns.format( dateValue, formatDate );
 	} );
 
+	eleventyConfig.addShortcode( 'emoji', function ( emoji, alt = '' ) {
+		return (
+			`<span aria-hidden="true" class="emoji">${emoji}</span>` +
+			(alt ? `<span class="sr-only">${alt}</span>` : "")
+		);
+	});
+
 	eleventyConfig.addShortcode( 'year', () => `${ new Date().getFullYear() }`);
 
 	eleventyConfig.addDataExtension( 'yml', contents => yaml.safeLoad( contents ) );
