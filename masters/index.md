@@ -1,5 +1,5 @@
 ---
-layout: default.html
+layout: layouts/masters.html
 date: git Last Modified
 ---
 # Strathclyde Masters 2025
