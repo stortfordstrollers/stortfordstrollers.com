@@ -4,6 +4,6 @@ content:
     type: file
     path: masters/index.md
     fields:
-      - { name: layout, type: string, hidden: true, default: default.html }
+      - { name: layout, type: string, hidden: true, default: layouts/masters.html }
       - { name: date, type: string, hidden: true, default: git Last Modified }
       - { name: body, label: Body, type: rich-text }
