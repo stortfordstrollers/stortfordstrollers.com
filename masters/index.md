@@ -44,7 +44,7 @@ date: git Last Modified
 
 ## Costs
 
-*   Team fee: £250
+*   Team fee: £250 - paid
     
 *   Saturday Social: £27 per ticket
     
