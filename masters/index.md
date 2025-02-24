@@ -66,7 +66,7 @@ date: git Last Modified
 
 | No  | Name | Age | Shirt | Size | Team<br>Fee | GB Masters<br>Registered | T-shirt<br>Ordered
 | --- | --- | --- | --- | --- | --- | :---: | - |
-| 5   | Serge Cruz Duran | 77  | Borrowed | M   | Paid |     |
+| 5   | Serge Cruz Duran | 77  | Borrowed | M   | Paid | {% emoji '✅' %} |
 | 6   | Richard Herbert | 68  | Owned | L   | Paid | {% emoji '✅' %} | 1 x XL rnd |
 | 7   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd<br>1 x S v-nk
 | 8   | David Wyllie | 64  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd
