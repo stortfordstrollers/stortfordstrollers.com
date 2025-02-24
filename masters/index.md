@@ -19,6 +19,8 @@ date: git Last Modified
 
 ### Squad
 
+<figure>
+
 | No  | Name | Age | Shirt | Size | Team<br>Fee | Friday<br>Social | Saturday<br>Social |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6   | Richard Herbert | 68  | Owned | L   | Paid |     | Paid x 2 |
@@ -29,6 +31,8 @@ date: git Last Modified
 | 14  | Mark Strange | 73  | Borrowed | XL  | Paid |     | Paid |
 | 32  | David Ince | 68  | Owned | L   | Paid |     | Paid x 2 |
 | 44  | Graham Murray | 68  | Borrowed | XL  | Paid |     | Paid |
+
+</figure>
 
 ## Costs
 
@@ -58,6 +62,8 @@ date: git Last Modified
 
 ### Squad {#gb-masters-squad}
 
+<figure>
+
 | No  | Name | Age | Shirt | Size | Team<br>Fee | GB Masters<br>Registered | T-shirt<br>Ordered
 | --- | --- | --- | --- | --- | --- | :---: | - |
 | 5   | Serge Cruz Duran | 77  | Borrowed | M   | Paid |     |
@@ -67,8 +73,10 @@ date: git Last Modified
 |     | Nick Morrice (maybe) |     |     |     |     |     |
 | 14  | Mark Strange | 73  | Borrowed | L   | Paid |     |
 | 25  | Keith Bragg | 72  | Owned | L   | Paid |     |
-| 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} |
-| 44  | Ken Corbin | 61  | Borrowed | XL  | Paid | {% emoji '✅' %} |
+| 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} | 1 x XL rnd
+| 44  | Ken Corbin | 61  | Borrowed | XL  | Paid | {% emoji '✅' %} | 1 x XL rnd
+
+</figure>
 
 ## Costs {#gb-masters-costs}
 
