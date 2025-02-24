@@ -108,3 +108,4 @@ date: git Last Modified
   * St Mellons Golf Club (Cardiff) Friday 6th June 2025
   * First tee time is 1300 and there is a limited number of 20 places available
   * Cost for the 18 holes of golf including soup and sandwiches prior to the golf is £49.00 per head – payable in advance
+  * Contact <nicky.shaw@gbmasters.org> directly
