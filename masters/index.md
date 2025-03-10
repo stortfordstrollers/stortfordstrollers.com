@@ -71,7 +71,7 @@ date: git Last Modified
 | 7   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd<br>1 x S v-nk
 | 8   | David Wyllie | 64  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd
 |     | Nick Morrice (maybe) |     |     |     |     |     |
-| 14  | Mark Strange | 73  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd
+| 14  | Mark Strange | 73  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x XL rnd
 | 25  | Keith Bragg | 72  | Owned | L   | Paid |     |
 | 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} | 1 x XL rnd
 | 44  | Ken Corbin | 61  | Borrowed | XL  | Paid | {% emoji '✅' %} | 1 x XL rnd
