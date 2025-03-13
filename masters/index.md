@@ -7,10 +7,10 @@ date: git Last Modified
 * Date: 4th, 5th & 6th April 2025
 * Venue: [Lagoon Leisure Centre, 11 Christie St, Paisley PA1 1NB](https://maps.app.goo.gl/fEurPCja5Ng6CEDH9)
 * Matches:
-  * Sat 6th
+  * Sat 5th
     * 11:00 vs Shannon Dodgers - Court 2
     * 16:00 vs Sixers - Court 1
-  * Sun 7th
+  * Sun 6th
     * 11:00 vs Severnside - Court 2
     * 15:00 vs Maxi Basket Milano - Area Court
 * Website: [Strathclyde Masters](https://www.strathclydemasters.com)
