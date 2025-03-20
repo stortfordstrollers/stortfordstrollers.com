@@ -87,11 +87,11 @@ date: git Last Modified
 * T-shirt: Once you are registered you can [visit the GB Masters shop](https://gbmasters.org/shop) and order your t-shirt directly. Orders must be placed before 7th April. On the day I'll most likely be asked to collect all those ordered by our team and distribute them.
 * Saturday Social: TBC
 * Accommodation Options:
-  * Tournament hotel - [Mercure Cardiff North](https://all.accor.com/hotel/B539/index.en.shtml)
-    * [Circle Way East, Llanedeyrn, Cardiff CF239XF](https://maps.app.goo.gl/bxEHkzqvVAj162C67)
-    * Single £80 per night including breakfast and parking
-    * Double/Twin £95 per night including breakfast and parking
-    * Email [reece.griffiths@accor.com](mailto:reece.griffiths@accor.com) or call \[+44 20 4602 9658\](tel:+44 20 4602 9658) and quote `"GB Masters"`
+  * ~~Tournament hotel - [Mercure Cardiff North](https://all.accor.com/hotel/B539/index.en.shtml)~~ (SOLD OUT)
+    * ~~[Circle Way East, Llanedeyrn, Cardiff CF239XF](https://maps.app.goo.gl/bxEHkzqvVAj162C67)~~
+    * ~~Single £80 per night including breakfast and parking~~
+    * ~~Double/Twin £95 per night including breakfast and parking~~
+    * ~~Email [reece.griffiths@accor.com](mailto:reece.griffiths@accor.com) or call \[+44 20 4602 9658\](tel:+44 20 4602 9658) and quote `"GB Masters"`~~
   * Basic - [Zip by Premier Inn](https://www.premierinn.com/gb/en/hotels/wales/glamorgan/cardiff/zip-cardiff.html)
     * [Ipswich Road, Cardiff CF23 9AQ](https://maps.app.goo.gl/uaECMjsB8k6Btuq59)
     * Single from £33 per night includes parking, breakfast extra
