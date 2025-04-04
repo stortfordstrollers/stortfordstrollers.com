@@ -35,16 +35,10 @@ For those without a car, getting from the Glynhill to the Lagoon takes around 40
 
 For those driving to the Lagoon, parking is very restricted so you may want to car share. Parking is pay-and-display, although the [leisure centre](https://www.oneren.org/venues/leisure-venues/lagoon-leisure-centre/) says you can get 2 hours free if you register your car with reception.
 
-"Parking at the Lagoon LC
-
-Please find attached additional parking measures during busy events.
-
+"Additional parking measures during busy events.
 This additional parking area is a few minutes’ walk away from centre ([Cotton St, PA1 1AZ](/masters/Renfrewshire%20House%20Parking.pdf)).
-
 The car park at our centre is free for 1 hour then its chargeable per hour or all day.
-
 It can be done via RINGO app
-
 Event organisers etc can park in staff car park if they wish."
 
 ### Squad
