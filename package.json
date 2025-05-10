@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "rm -rf ./_site && npm run dev:eleventy",
+    "dev:eleventy": "npx @11ty/eleventy --input ./ --serve",
+
     "build": "rm -rf ./_site && npm run build:eleventy",
-    "build:eleventy": "npx @11ty/eleventy --input ./",
-    "dev": "rm -rf ./_site && npm run dev:eleventy",
-    "dev:eleventy": "npx @11ty/eleventy --input ./ --serve"
+    "build:eleventy": "npx @11ty/eleventy --input ./"
   },
   "repository": {
     "type": "git",
