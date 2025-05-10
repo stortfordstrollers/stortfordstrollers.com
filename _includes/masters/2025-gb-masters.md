@@ -41,7 +41,7 @@
 
 ## Costs {#gb-masters-costs}
 
-* Team fee: £330. All paid £33 but a supplement might be needed if we don't add any more players to the squad.
+* Team fee: £330. All paid.
 * Player fee: £15 to be paid via the GB Masters website. Once paid please let me know so I can add you to our team.
   * [Register with GB Masters for the first time](https://gbmasters.org/register)
   * [Renew your GB Masters registration](https://gbmasters.org/login)
