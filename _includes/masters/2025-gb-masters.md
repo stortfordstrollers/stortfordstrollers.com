@@ -23,7 +23,7 @@
   * [Saturday Fixtures](/masters/2025/gb-masters/GB-Masters-Cardiff-Met-Saturday.pdf)
   * [Sunday Fixtures](/masters/2025/gb-masters/GB-Masters-Cardiff-Met-Sunday.pdf)
 
-### Squad {#gb-masters-squad}
+## Squad {#gb-masters-squad}
 
 <figure>
 
