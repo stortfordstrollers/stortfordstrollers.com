@@ -11,15 +11,17 @@
 * Matches:
   * Sat 7th
     * 14:00 vs Celtic Warriors - Court 2
-    * 16:00 vs Team Clevland - School
+    * 16:00 vs Team Clevland - School court
   * Sun 8th
-    * TBC
+    * 11:00 vs WEBBA 60's - School court
+    * 13:00 vs Falcons - Court 2
 * Website: [GB Masters](https://gbmasters.org)
 * Information
   * [Tournament Rules](/masters/2025/gb-masters/GB%20Masters%20Rules%202023.pdf)
   * [Venue Information](/masters/2025/gb-masters/Venue-Information.pdf)
   * [Tournament Social Information](/masters/2025/gb-masters/Social-Information.pdf)
   * [Saturday Fixtures](/masters/2025/gb-masters/GB-Masters-Cardiff-Met-Saturday.pdf)
+  * [Sunday Fixtures](/masters/2025/gb-masters/GB-Masters-Cardiff-Met-Sunday.pdf)
 
 ### Squad {#gb-masters-squad}
 
