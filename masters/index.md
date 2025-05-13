@@ -8,3 +8,7 @@ date: git Last Modified
 {%- comment -%}
 {%- include 'masters/2025-strathclyde.md' -%}
 {%- endcomment -%}
+
+<footer>
+  Last updated: {{ page.date | date: "%A, %e %B %Y, %l:%M%P" }}
+</footer>
