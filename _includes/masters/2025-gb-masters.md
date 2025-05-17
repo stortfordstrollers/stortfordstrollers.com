@@ -1,3 +1,7 @@
+---
+date: git Last Modified
+---
+
 # GB Masters 2025 {#gb-masters}
 
 * Date: 7th & 8th June 2025 (no games on the Friday, 6th)
@@ -29,10 +33,10 @@
 
 | No  | Name | Age | Shirt | Size | Team<br>Fee | GB Masters<br>Registered | T-shirt<br>Ordered
 | --- | --- | --- | --- | --- | --- | :---: | - |
+| 2   | David Wyllie | 64  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd
 | ~~5~~   | ~~Serge Cruz Duran~~ | ~~77~~  | ~~Borrowed~~ | ~~M~~   | ~~Paid~~ | ~~{% emoji '✅' %}~~ |
 | 6   | Richard Herbert | 68  | Owned | L   | Paid | {% emoji '✅' %} | 1 x XL rnd |
-| 7   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd<br>1 x S v-nk
-| 8   | David Wyllie | 64  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd
+| 8   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd<br>1 x S v-nk
 | 14  | Mark Strange | 73  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x XL rnd
 | 25  | Keith Bragg | 72  | Owned | L   | Paid | {% emoji '✅' %} |
 | 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} | 1 x XL rnd
