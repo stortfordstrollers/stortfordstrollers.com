@@ -1,7 +1,3 @@
----
-date: git Last Modified
----
-
 # GB Masters 2025 {#gb-masters}
 
 * Date: 7th & 8th June 2025 (no games on the Friday, 6th)
