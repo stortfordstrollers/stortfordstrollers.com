@@ -39,7 +39,7 @@ date: git Last Modified
 | 6   | Richard Herbert | 68  | Owned | L   | Paid | {% emoji '✅' %} | 1 x XL rnd |
 | 8   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd<br>1 x S v-nk
 | 14  | Mark Strange | 73  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x XL rnd
-| 20  | Peter Moss | 72  | Borrowed | XL   |  |  | 
+| 20  | Peter Moss | 72  | Borrowed | XL   |  |  |
 | 25  | Keith Bragg | 72  | Owned | L   | Paid | {% emoji '✅' %} |
 | 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} | 1 x XL rnd
 | 44  | Ken Corbin | 61  | Borrowed | XL  | Paid | {% emoji '✅' %} | 1 x XL rnd
@@ -83,6 +83,3 @@ date: git Last Modified
 	{%- include 'masters/2025-strathclyde.md' -%}
 {%- endcomment -%}
 
-<footer>
-  Last updated: {{ page.date | date: "%A, %e %B %Y, %l:%M%P" }}
-</footer>
