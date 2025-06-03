@@ -39,7 +39,7 @@ date: git Last Modified
 | 7   | Serge Cruz Duran | 77  | Borrowed | M   | Paid | {% emoji '✅' %} |
 | 8   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd<br>1 x S v-nk
 | 14  | Mark Strange | 73  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x XL rnd
-| 20  | Peter Moss | 72  | Borrowed | XL   |  |  |
+| 24  | Peter Moss | 72  | Borrowed | XL   |  |  |
 | 25  | Keith Bragg | 72  | Owned | L   | Paid | {% emoji '✅' %} |
 | 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} | 1 x XL rnd
 | 44  | Ken Corbin | 61  | Borrowed | XL  | Paid | {% emoji '✅' %} | 1 x XL rnd
@@ -71,7 +71,7 @@ date: git Last Modified
 ## Social {#gb-masters-social}
 
 * Friday Night: TBC
-* Saturday Night: TBC
+* Saturday Night: 7:15pm at [Harvester Coed-Y-Gores](https://www.harvester.co.uk/restaurants/wales/harvestercoedygorescardiff#/)
 * Golf Outing
   * St Mellons Golf Club (Cardiff) Friday 6th June 2025
   * First tee time is 1300 and there is a limited number of 20 places available
