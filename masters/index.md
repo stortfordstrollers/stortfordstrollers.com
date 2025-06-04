@@ -32,19 +32,31 @@ date: git Last Modified
 
 <figure>
 
-| No  | Name | Age | Shirt | Size | Team<br>Fee | GB Masters<br>Registered | T-shirt<br>Ordered
-| --- | --- | --- | --- | --- | --- | :---: | - |
-| 2   | David Wyllie | 64  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd
-| 6   | Richard Herbert | 68  | Owned | L   | Paid | {% emoji '✅' %} | 1 x XL rnd |
+| No  | Name | Age | Shirt | Size | Team<br>Fee | GB Masters<br>Registered |
+| --- | --- | --- | --- | --- | --- | :---: |
+| 2   | David Wyllie | 64  | Borrowed | L   | Paid | {% emoji '✅' %} |
+| 6   | Richard Herbert | 68  | Owned | L   | Paid | {% emoji '✅' %} |
 | 7   | Serge Cruz Duran | 77  | Borrowed | M   | Paid | {% emoji '✅' %} |
-| 8   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x L rnd<br>1 x S v-nk
-| 14  | Mark Strange | 73  | Borrowed | L   | Paid | {% emoji '✅' %} | 1 x XL rnd
-| 24  | Peter Moss | 72  | Borrowed | XL   |  |  |
+| 8   | Steve Shaw | 71  | Borrowed | L   | Paid | {% emoji '✅' %} |
+| 14  | Mark Strange | 73  | Borrowed | L   | Paid | {% emoji '✅' %} |
+| 24  | Peter Moss | 72  | Borrowed | L   |  |  {% emoji '✅' %} |
 | 25  | Keith Bragg | 72  | Owned | L   | Paid | {% emoji '✅' %} |
-| 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} | 1 x XL rnd
-| 44  | Ken Corbin | 61  | Borrowed | XL  | Paid | {% emoji '✅' %} | 1 x XL rnd
+| 33  | Mark Feldman (Feldy) | 62  | Owned | XXL | Paid | {% emoji '✅' %} |
+| 44  | Ken Corbin | 61  | Borrowed | XL  | Paid | {% emoji '✅' %} |
 
 </figure>
+
+## T-Shirt Order
+
+| Size | Style | Ordered For |
+| - | - | - |
+| S | V Neck | Jill |
+| L | Round | Steve |
+| L | Round | David |
+| XL | Round | Mark |
+| XL | Round | Ken |
+| XL | Round | Feldy |
+| XL | Round | Richard |
 
 ## Costs {#gb-masters-costs}
 
