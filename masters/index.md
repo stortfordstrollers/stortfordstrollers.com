@@ -21,12 +21,17 @@ date: git Last Modified
     * 11:00 vs WEBBA 60's - School court
     * 13:00 vs Falcons - Court 2
 * Website: [GB Masters](https://gbmasters.org)
-* Information
+* Information:
   * [Tournament Rules](/masters/2025/gb-masters/GB%20Masters%20Rules%202023.pdf)
   * [Venue Information](/masters/2025/gb-masters/Venue-Information.pdf)
   * [Tournament Social Information](/masters/2025/gb-masters/Social-Information.pdf)
   * [Saturday Fixtures](/masters/2025/gb-masters/GB-Masters-Cardiff-Met-Saturday.pdf)
   * [Sunday Fixtures](/masters/2025/gb-masters/GB-Masters-Cardiff-Met-Sunday.pdf)
+* Transport: {#transport}
+  * Friday - Cardiff Station > Mecure Hotel - [57 Bus to Queenswood](https://www.cardiffbus.com/services/CB/57?date=2025-06-06&direction=outbound&all=on)
+  * Friday - Cardiff Station > Mecure Hotel / Premier Inn North / Campanile - [58 Bus to Queenswood / Premier Inn](https://www.cardiffbus.com/services/CB/58?date=2025-06-06&direction=outbound&all=on)
+  * Sunday - Queenswood > Cardiff Station - [57 Bus from Queenswood](https://www.cardiffbus.com/services/CB/57?date=2025-06-08&direction=inbound&all=on)
+  * Sunday - Cardiff Met > Cardiff Station - [52 Bus from sports centre](https://www.cardiffbus.com/services/CB/52?date=2025-06-08&direction=inbound)
 
 ## Squad {#gb-masters-squad}
 
