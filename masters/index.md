@@ -102,6 +102,7 @@ date: git Last Modified
 
 ## Photos {#photos}
 
+![GB Masters](/masters/2025/gb-masters/pix/504328821_1252105386914934_8605105859160382272_n.jpg)
 ![GB Masters](/masters/2025/gb-masters/pix/504197363_1253290496796423_1444238949090531311_n.jpg)
 ![GB Masters](/masters/2025/gb-masters/pix/504418401_1253290453463094_1647297205814833026_n.jpg)
 ![GB Masters](/masters/2025/gb-masters/pix/504479495_1252417856883687_1448582366388736549_n.jpg)
