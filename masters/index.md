@@ -33,6 +33,11 @@ date: git Last Modified
   * Sunday - Queenswood > Cardiff Station - [57 Bus from Queenswood](https://www.cardiffbus.com/services/CB/57?date=2025-06-08&direction=inbound&all=on)
   * Sunday - Cardiff Met > Cardiff Station - [52 Bus from sports centre](https://www.cardiffbus.com/services/CB/52?date=2025-06-08&direction=inbound)
 
+## Results {#results}
+
+* [Court 2](/masters/2025/gb-masters/FinalResultCardiffMetCourt2.pdf)
+* [Court 3](/masters/2025/gb-masters/FinalResultCardiffMetCourt3.pdf)
+
 ## Squad {#gb-masters-squad}
 
 <figure>
