@@ -69,3 +69,7 @@ Event organisers etc can park in staff car park if they wish."
   * ~~TBC - most likely the Chinese as last time~~
 * Tournament Hotel/Saturday Night Social Venue:
   * [The Glynhill Hotel & Spa](https://www.glynhill.com), 169 Paisley Road, Glasgow, PA4 8XB T: 0141 886 5555
+
+## Photos {#photos}
+
+[Google Photos](https://photos.app.goo.gl/aybY35HtjXzJrbp27)
