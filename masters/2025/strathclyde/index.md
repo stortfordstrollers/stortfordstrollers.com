@@ -1,3 +1,8 @@
+---
+layout: layouts/masters.html
+date: git Last Modified
+---
+
 # Strathclyde Masters 2025
 
 * Date: 4th, 5th & 6th April 2025
@@ -13,21 +18,16 @@
   * [Official Schedule](/masters/Masters%20Fixtures%202025%20V2.pdf)
   * [Tournament Rules](/masters/Tournament%20Rules%202025.pdf)
 
-### Transport {#strathclyde-masters-transport}
+## Transport {#strathclyde-masters-transport}
 
-For those arriving at Glasgow airport, like me, there is a 77 bus from the airport to the Glynhill.
-
-* [77 Bus](https://www.firstbus.co.uk/greater-glasgow/plan-journey/timetables?search=77)
-
-There are not many bus options from Lagoon to the airport on Sunday afternoon.
-
-* [26 Bus](https://www.mcgillsbuses.co.uk/services/McG/26) 20 mins
-* [757 Bus](https://www.mcgillsbuses.co.uk/services/McG/757) 28 mins
-
-For those without a car, getting from the Glynhill to the Lagoon takes around 40 mins to walk or there are a couple of buses 23P Switch and 26 Switch both require a walk at either end.
-
-* [23 Bus](https://www.mcgillsbuses.co.uk/services/McG/23) 15 mins
-* [26 Bus](https://www.mcgillsbuses.co.uk/services/McG/26) 20 mins
+* For those arriving at Glasgow airport, like me, there is a 77 bus from the airport to the Glynhill.
+  * [77 Bus](https://www.firstbus.co.uk/greater-glasgow/plan-journey/timetables?search=77)
+* There are not many bus options from Lagoon to the airport on Sunday afternoon.
+  * [26 Bus](https://www.mcgillsbuses.co.uk/services/McG/26) 20 mins
+  * [757 Bus](https://www.mcgillsbuses.co.uk/services/McG/757) 28 mins
+* For those without a car, getting from the Glynhill to the Lagoon takes around 40 mins to walk or there are a couple of buses 23P Switch and 26 Switch both require a walk at either end.
+  * [23 Bus](https://www.mcgillsbuses.co.uk/services/McG/23) 15 mins
+  * [26 Bus](https://www.mcgillsbuses.co.uk/services/McG/26) 20 mins
 
 For those driving to the Lagoon, parking is very restricted so you may want to car share. Parking is pay-and-display, although the [leisure centre](https://www.oneren.org/venues/leisure-venues/lagoon-leisure-centre/) says you can get 2 hours free if you register your car with reception.
 
@@ -37,7 +37,7 @@ The car park at our centre is free for 1 hour then its chargeable per hour or al
 It can be done via RINGO app
 Event organisers etc can park in staff car park if they wish."
 
-### Squad
+## Squad
 
 <figure>
 
