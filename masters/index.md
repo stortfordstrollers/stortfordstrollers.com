@@ -100,8 +100,32 @@ date: git Last Modified
   * Cost for the 18 holes of golf including soup and sandwiches prior to the golf is £49.00 per head – payable in advance
   * Contact <nicky.shaw@gbmasters.org> directly
 
+## Photos {#photos}
+
+![GB Masters](/masters/2025/gb-masters/pix/504197363_1253290496796423_1444238949090531311_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/504418401_1253290453463094_1647297205814833026_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/504479495_1252417856883687_1448582366388736549_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/504493268_1253290610129745_4250411083857848575_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/504715285_1253290670129739_6865229738243586426_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/504761376_1253290570129749_3257308272952695788_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505083706_1252418836883589_2904556697313077557_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505309782_1253290563463083_6245537966648335712_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505318837_1253290646796408_5539334950852319105_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505376947_1252419586883514_3776808873938971418_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505384009_1256021383190001_1347378523495984981_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/506658081_1256021469856659_7129909839499870893_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505513771_1256749313117208_2625773473807046900_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505535165_1256749373117202_8814375847573510671_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505829738_1256750083117131_1133457452513111480_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/506528270_1256750109783795_6180158742040655258_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/506789763_1256750179783788_8497079506003315936_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/506140184_1256750263117113_8821996028032196371_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505878082_1256750539783752_5446372514070131546_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505750463_1256750603117079_2846004260999069960_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/506113059_1256767306448742_4946003729699655114_n.jpg)
+![GB Masters](/masters/2025/gb-masters/pix/505363799_1256767363115403_2819595092021565354_n.jpg)
+
 {%- comment -%}
 	{%- include 'masters/2025-gb-masters.md' -%}
 	{%- include 'masters/2025-strathclyde.md' -%}
 {%- endcomment -%}
-
