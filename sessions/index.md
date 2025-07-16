@@ -1,0 +1,5 @@
+* [webcal - Wednesday sessions](webcal://localhost:8080/sessions/2025-26_wednesdays.ics)
+* [http - Wednesday sessions](http://localhost:8080/sessions/2025-26_wednesdays.ics)
+* [http - Wednesday sessions](http://localhost:8080/sessions/test_1.ics)
+* [http - Wednesday sessions](https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/attendease/calendar_days.ics)
+* [calendar_days.ics](./calendar_days.ics)

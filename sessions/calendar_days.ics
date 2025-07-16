@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Adobe ColdFusion Developer Week 2025
+X-WR-CALDESC:
+X-WR-RELCALID:adobe-cold-fusion-developer-week-2025
+X-PUBLISHED-TTL:PT10S
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+DTSTART:20250309T030000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251102T010000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:PST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250716T151124Z
+UID:fcf21714-db50-4cb3-a275-b6bea1188b08
+DTSTART;TZID=America/Los_Angeles:20250623T060000
+DTEND;TZID=America/Los_Angeles:20250623T163000
+DESCRIPTION:View your event at https://adobe-cold-fusion-developer-week-202
+ 5.meetus.adobeevents.com/
+LOCATION:Online
+SUMMARY:Adobe ColdFusion Developer Week 2025
+URL:https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250716T151124Z
+UID:7636e531-1cb2-4a9e-83ac-6147f9713552
+DTSTART;TZID=America/Los_Angeles:20250624T070000
+DTEND;TZID=America/Los_Angeles:20250624T170000
+DESCRIPTION:View your event at https://adobe-cold-fusion-developer-week-202
+ 5.meetus.adobeevents.com/
+LOCATION:Online
+SUMMARY:Adobe ColdFusion Developer Week 2025
+URL:https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250716T151124Z
+UID:8dd24729-800a-46cb-80cc-761eb081bf5a
+DTSTART;TZID=America/Los_Angeles:20250625T070000
+DTEND;TZID=America/Los_Angeles:20250625T170000
+DESCRIPTION:View your event at https://adobe-cold-fusion-developer-week-202
+ 5.meetus.adobeevents.com/
+LOCATION:Online
+SUMMARY:Adobe ColdFusion Developer Week 2025
+URL:https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250716T151124Z
+UID:c07d117a-4dbd-40e7-9156-ed86ff27a955
+DTSTART;TZID=America/Los_Angeles:20250626T070000
+DTEND;TZID=America/Los_Angeles:20250626T170000
+DESCRIPTION:View your event at https://adobe-cold-fusion-developer-week-202
+ 5.meetus.adobeevents.com/
+LOCATION:Online
+SUMMARY:Adobe ColdFusion Developer Week 2025
+URL:https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250716T151124Z
+UID:f6f1fc51-3f86-4a64-b76b-8b1a2d77663e
+DTSTART;TZID=America/Los_Angeles:20250627T070000
+DTEND;TZID=America/Los_Angeles:20250627T170000
+DESCRIPTION:View your event at https://adobe-cold-fusion-developer-week-202
+ 5.meetus.adobeevents.com/
+LOCATION:Online
+SUMMARY:Adobe ColdFusion Developer Week 2025
+URL:https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/
+END:VEVENT
+END:VCALENDAR

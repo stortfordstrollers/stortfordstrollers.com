@@ -20,6 +20,7 @@ module.exports = function( eleventyConfig ) {
 	eleventyConfig.addPassthroughCopy( 'robots.txt' );
 	eleventyConfig.addPassthroughCopy( '404.html' );
 	eleventyConfig.addPassthroughCopy( 'google0807158b843a6325.html' );
+	eleventyConfig.addPassthroughCopy( '*.ics' );
 
 	eleventyConfig.amendLibrary( 'md', ( mdLib ) => mdLib.use( markdownItAttrs ) );
 	eleventyConfig.amendLibrary( 'md', ( mdLib ) => mdLib.use( markdownItAnchor ) );
