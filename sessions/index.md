@@ -1,6 +1,7 @@
 * [webcal - Wednesday sessions](webcal://localhost:8080/sessions/2025-26_wednesdays.ics)
+* [webcal - Wednesday sessions](webcal://www.stortfordstrollers.com/sessions/2025-26_wednesdays.ics)
 * [http - Wednesday sessions](http://localhost:8080/sessions/2025-26_wednesdays.ics)
 * [http - Wednesday sessions](http://localhost:8080/sessions/test_1.ics)
 * [http - Wednesday sessions](https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/attendease/calendar_days.ics)
 * [calendar_days.ics](./calendar_days.ics)
-* [gCal](https://calendar.google.com/calendar/ical/7b70071577c1abbc02431d7d79804e4ccd99c3a4c53e3ef15d2dd7069deba2b4%40group.calendar.google.com/public/basic.ics)
+* [gCal](https://calendar.google.com/calendar/ical/3dba94c9c9211e6fcb583705df55995af357f0ae1faf9dfa72a28f768fa07153%40group.calendar.google.com/public/basic.ics)
