@@ -6,6 +6,14 @@
 * [calendar_days.ics](./calendar_days.ics)
 * [gCal](https://calendar.google.com/calendar/ical/3dba94c9c9211e6fcb583705df55995af357f0ae1faf9dfa72a28f768fa07153%40group.calendar.google.com/public/basic.ics)
 
+<ul>
+	<li><a href="http://localhost:8080/sessions/2025-26_wednesdays.ics" download>download link - no filename</a></li>
+	<li><a href="http://localhost:8080/sessions/2025-26_wednesdays.ics" download="strollers_wednesday_sessions.ics">download link</a></li>
+	<li><a href="http://localhost:8080/sessions/2025-26_wednesdays.ics" type="text/calendar">download link - content type</a></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
 
-<a href="http://localhost:8080/sessions/2025-26_wednesdays.ics" download>download link - no filename</a>
-<a href="http://localhost:8080/sessions/2025-26_wednesdays.ics" download="strollers_wednesday_sessions.ics">download link</a>
+
