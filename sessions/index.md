@@ -5,3 +5,7 @@
 * [http - Wednesday sessions](https://adobe-cold-fusion-developer-week-2025.meetus.adobeevents.com/attendease/calendar_days.ics)
 * [calendar_days.ics](./calendar_days.ics)
 * [gCal](https://calendar.google.com/calendar/ical/3dba94c9c9211e6fcb583705df55995af357f0ae1faf9dfa72a28f768fa07153%40group.calendar.google.com/public/basic.ics)
+
+
+<a href="http://localhost:8080/sessions/2025-26_wednesdays.ics" download>download link - no filename</a>
+<a href="http://localhost:8080/sessions/2025-26_wednesdays.ics" download="strollers_wednesday_sessions.ics">download link</a>
