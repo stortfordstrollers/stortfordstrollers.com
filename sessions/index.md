@@ -1,4 +1,5 @@
 ---
+title: Sessions
 layout: layouts/minimal.html
 date: git Last Modified
 ---
