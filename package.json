@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/stortfordstrollers/stortfordstrollers.com#readme",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.1",
+    "@11ty/eleventy": "^3.1.2",
     "date-fns": "^2.30.0",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1"
